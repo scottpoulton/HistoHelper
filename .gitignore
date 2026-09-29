@@ -1,0 +1,29 @@
+# --- Operating System ---
+.DS_Store
+Thumbs.db
+
+# --- Python & Environments ---
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- HistoHelper ML Data (Heavy Files) ---
+*.svs
+*.pth
+*.pt
+spider_mvp_samples/
+extracted_tiles/
+ml_datasets/images/
+ml_datasets/tcga/slides/
+ml_datasets/tcga/mil_bags/
+clinical_metadata.json
+
+# --- Logs & AI Tools ---
+*.log
+repomix-output*.xml

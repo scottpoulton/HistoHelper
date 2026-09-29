@@ -1,0 +1,471 @@
+Patient_ID,Primary_Diagnosis,Origin_Tissue,Tumor_Stage,Metastasis_Stage
+TCGA-D3-A3CC,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-DA-A3F8,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A193,"Malignant melanoma, NOS","Brain, NOS",N/A,M1
+TCGA-WE-A8ZO,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-GN-A26D,"Malignant melanoma, NOS","Brain, NOS",N/A,M0
+TCGA-D9-A148,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A2NF,Not Reported,Not Reported,N/A,M1
+TCGA-FS-A1ZU,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-W3-A828,"Spindle cell nevus, NOS","Skin, NOS",N/A,M1
+TCGA-RP-A6K9,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A3AD,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2MI,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-HR-A2OG,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A2MQ,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-DA-A1HY,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A1YY,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A1YW,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D9-A3Z4,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2MM,"Malignant melanoma, NOS","Small intestine, NOS",N/A,M1
+TCGA-D3-A1QB,"Malignant melanoma, NOS",Not Reported,N/A,M1
+TCGA-EB-A3XF,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A2GN,"Malignant melanoma, NOS","Adrenal gland, NOS",N/A,N/A
+TCGA-EB-A44O,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-RP-A694,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A29H,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-DA-A1I0,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A3XE,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FW-A3TU,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-YD-A9TA,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-WE-AAA3,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FS-A1Z0,"Malignant melanoma, NOS","Lung, NOS",N/A,N/A
+TCGA-D9-A6EA,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A8GO,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A17Y,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A29W,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-DA-A95X,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A8GR,"Malignant melanoma, NOS",Liver,N/A,M1
+TCGA-EB-A41B,Nodular melanoma,"Skin, NOS",N/A,M0
+TCGA-D3-A8GB,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A5GS,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2ME,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A20C,"Malignant melanoma, NOS",Intrathoracic lymph nodes,N/A,M1
+TCGA-EE-A29R,"Malignant melanoma, NOS","Lung, NOS",N/A,M1
+TCGA-EB-A57M,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A6L9,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D9-A4Z5,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A2JK,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A17Z,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-DA-A3F5,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A2JC,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A2JB,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A194,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A1Q7,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of pelvis",N/A,M1
+TCGA-ER-A19W,"Malignant melanoma, NOS","Brain, NOS",N/A,M1
+TCGA-ER-A19H,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-DA-A95V,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A29Q,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2GB,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A3CF,"Malignant melanoma, NOS","Bone, NOS",N/A,M1
+TCGA-EE-A2MG,"Malignant melanoma, NOS","Mediastinum, NOS",N/A,N/A
+TCGA-EB-A5SF,Nodular melanoma,"Skin, NOS",N/A,M0
+TCGA-GN-A4U5,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-BF-A3DL,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A3JB,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GF-A4EO,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-XV-AAZV,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A85J,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A41A,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A42Z,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2GK,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A29D,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-WE-A8JZ,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-OD-A75X,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-DA-A1I2,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FR-A3YN,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FS-A1Z7,"Malignant melanoma, NOS","Lung, NOS",N/A,N/A
+TCGA-EE-A3AG,"Chronic myeloid leukemia, NOS",Not Reported,N/A,M0
+TCGA-YG-AA3P,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FR-A2OS,"Malignant melanoma, NOS",Skin of scalp and neck,N/A,N/A
+TCGA-WE-A8ZN,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-DA-A95Y,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D9-A1JX,"Malignant melanoma, NOS",Pelvic lymph nodes,N/A,M1
+TCGA-FS-A1ZG,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A1Z3,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A5UL,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FR-A7UA,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-WE-A8ZM,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of thorax",N/A,M1
+TCGA-D3-A2JD,"Malignant melanoma, NOS",Liver,N/A,M1
+TCGA-ER-A19K,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-ER-A42H,Not Reported,Not Reported,N/A,M0
+TCGA-D3-A1QA,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A51N,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of lower limb and hip",N/A,N/A
+TCGA-EE-A29C,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A8GP,Epithelioid cell melanoma,"Skin, NOS",N/A,N/A
+TCGA-D3-A3MR,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-WE-A8ZX,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A181,"Malignant melanoma, NOS",Not Reported,N/A,N/A
+TCGA-D9-A4Z2,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A2JH,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A3CB,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A3AF,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A29V,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A42L,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FW-A3TV,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A2JO,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2GP,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-GN-A4U7,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2GC,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D9-A149,"Melanoma, NOS",Not Reported,N/A,N/A
+TCGA-ER-A19F,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FS-A4F9,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A3J8,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2MU,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2MF,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A5KH,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-WE-A8K5,Lentigo maligna melanoma,"Skin, NOS",N/A,M1
+TCGA-EE-A3AB,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-WE-AA9Y,Superficial spreading melanoma,"Skin, NOS",N/A,M1
+TCGA-ER-A1A1,Not Reported,Not Reported,N/A,M1
+TCGA-BF-A9VF,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A8GL,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A1ZA,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A4IS,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A2J7,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-BF-A1PX,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-YG-AA3O,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-YG-AA3N,Nodular melanoma,"Skin, NOS",N/A,M0
+TCGA-BF-A3DM,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D9-A4Z3,Nodular melanoma,Not Reported,N/A,M0
+TCGA-D3-A1Q6,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A8GC,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A51R,"Malignant melanoma, NOS",Intra-abdominal lymph nodes,N/A,M1
+TCGA-D3-A2JN,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-DA-A1HV,"Malignant melanoma, NOS","Mediastinum, NOS",N/A,M0
+TCGA-D3-A51F,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A4OZ,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FR-A7U8,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A1Q5,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2GU,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A29X,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EB-A1NK,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-GF-A2C7,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FR-A8YD,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A2JL,"Malignant melanoma, NOS","Lung, NOS",N/A,M1
+TCGA-EE-A3JI,"Melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A1ZE,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-HR-A5NC,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A51J,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-BF-AAOX,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A3JH,"Malignant melanoma, NOS","Small intestine, NOS",N/A,M0
+TCGA-DA-A1IA,"Malignant melanoma, NOS","Brain, NOS",N/A,M1
+TCGA-FS-A1ZJ,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FS-A4F8,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-W3-A825,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A3C1,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A8GQ,"Malignant melanoma, NOS",Intra-abdominal lymph nodes,N/A,M1
+TCGA-D3-A2JA,"Malignant melanoma, NOS",Not Reported,N/A,M1
+TCGA-ER-A19D,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-GN-A266,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-DA-A3F3,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-W3-AA1W,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2MC,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-RP-A695,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A19Q,"Malignant melanoma, NOS",Spleen,N/A,M1
+TCGA-D3-A8GV,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-RP-A693,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A3C7,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2GM,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-BF-A1PU,"Malignant melanoma, NOS","Lung, NOS",N/A,M0
+TCGA-EE-A3J7,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-BF-AAP7,Epithelioid cell melanoma,"Skin, NOS",N/A,M0
+TCGA-ER-A197,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A3J4,"Malignant melanoma, NOS",Not Reported,N/A,N/A
+TCGA-EE-A3JA,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A19A,Papillary urothelial carcinoma,"Bladder, NOS",N/A,M1
+TCGA-FW-A3I3,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A8GM,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A51G,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EB-A5SG,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FS-A1YX,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-BF-A1PZ,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-GF-A6C9,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2MK,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2GE,"Basal cell carcinoma, NOS",Not Reported,N/A,M0
+TCGA-EE-A29A,"Malignant melanoma, NOS",Liver,N/A,M0
+TCGA-FR-A726,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-XV-A9VZ,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A2MS,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-W3-AA21,"Malignant melanoma, NOS","Thorax, NOS",N/A,M0
+TCGA-FS-A1ZP,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FS-A4F2,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A4IQ,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D9-A3Z1,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A85I,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A51H,"Malignant melanoma, NOS",Not Reported,N/A,N/A
+TCGA-ER-A195,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A97M,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A3XC,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A82C,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-DA-A95W,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-W3-AA1R,"Malignant melanoma, NOS",Liver,N/A,M0
+TCGA-EE-A2MP,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-3N-A9WC,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A51B,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-3N-A9WB,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-WE-A8ZR,Nodular melanoma,"Lung, NOS",N/A,M1
+TCGA-D9-A3Z3,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2A2,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A8GS,"Malignant melanoma, NOS",Not Reported,N/A,N/A
+TCGA-EE-A2M6,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-Z2-A8RT,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-WE-A8ZT,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-Z2-AA3V,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GN-A26A,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A183,"Malignant melanoma, NOS","Brain, NOS",N/A,N/A
+TCGA-EB-A44R,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2GD,"Malignant melanoma, NOS",Not Reported,N/A,N/A
+TCGA-EE-A29S,"Malignant melanoma, NOS","Lung, NOS",N/A,M1
+TCGA-EE-A2M8,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-WE-A8ZY,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A17X,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-GN-A265,"Malignant melanoma, NOS",Not Reported,N/A,M1
+TCGA-BF-A3DJ,"Malignant melanoma, NOS",Liver,N/A,M0
+TCGA-BF-A1Q0,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-GN-A8LL,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A551,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-XV-A9W5,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A4FB,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-DA-A1IC,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A5UM,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-DA-A95Z,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-BF-AAP1,Epithelioid cell melanoma,"Skin, NOS",N/A,M0
+TCGA-FR-A3R1,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-DA-A1I1,"Malignant melanoma, NOS",Jejunum,N/A,N/A
+TCGA-EE-A2MT,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A5GU,"Malignant melanoma, NOS","Brain, NOS",N/A,N/A
+TCGA-EB-A44P,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A4OY,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A8GK,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A1ZB,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A2J6,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of abdomen",N/A,N/A
+TCGA-EB-A3XD,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A8GN,"Malignant melanoma, NOS","Lung, NOS",N/A,M1
+TCGA-EE-A20F,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A182,"Malignant melanoma, NOS","Head, face or neck, NOS",N/A,M0
+TCGA-BF-AAP4,Epithelioid cell melanoma,"Skin, NOS",N/A,M0
+TCGA-D3-A3CE,"Malignant melanoma, NOS",Not Reported,N/A,M1
+TCGA-XV-AAZW,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FS-A4FD,"Malignant melanoma, NOS","Lung, NOS",N/A,M1
+TCGA-D3-A8GD,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-GN-A264,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-WE-A8ZQ,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EB-A82B,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A1Q9,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-ER-A19M,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A2M7,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-YD-A89C,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-BF-AAP2,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-GN-A8LN,"Malignant melanoma, NOS","Lung, NOS",N/A,M0
+TCGA-DA-A1I4,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-DA-A1HW,Not Reported,Not Reported,N/A,M1
+TCGA-EB-A6QZ,"Malignant melanoma, NOS","Brain, NOS",N/A,N/A
+TCGA-YD-A9TB,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-W3-AA1Q,"Malignant melanoma, NOS","Lower limb, NOS",N/A,M1
+TCGA-EE-A2A0,"Malignant melanoma, NOS",Eyelid,N/A,N/A
+TCGA-EB-A6QY,"Malignant melanoma, NOS",Not Reported,N/A,M0
+TCGA-BF-A5EO,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A29E,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FS-A1Z4,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2MJ,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A3MO,"Malignant melanoma, NOS",Vertebral column,N/A,M1
+TCGA-EE-A2A5,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A4F5,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2GS,Amelanotic melanoma,Heart,N/A,M0
+TCGA-ER-A3PL,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-BF-A5EP,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FW-A5DX,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A29N,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-XV-A9W2,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A3Y6,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A1Q1,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues of abdomen",N/A,N/A
+TCGA-EE-A29G,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-DA-A1IB,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A299,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A29B,"Melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GN-A4U3,"Malignant melanoma, NOS","Brain, NOS",N/A,N/A
+TCGA-ER-A19G,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A2GH,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2GR,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A3AH,"Malignant melanoma, NOS","Abdomen, NOS",N/A,N/A
+TCGA-DA-A960,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A3AE,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A553,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A51E,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A431,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2GT,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-W3-AA1V,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A1ZM,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-WE-AAA4,"Malignant melanoma, NOS","Brain, NOS",N/A,M1
+TCGA-FW-A5DY,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D9-A1JW,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2GL,"Malignant melanoma, NOS","Lymph nodes of head, face and neck",N/A,N/A
+TCGA-EB-A4XL,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FS-A1ZN,Not Reported,Not Reported,N/A,N/A
+TCGA-EB-A44N,Nodular melanoma,"Skin, NOS",N/A,N/A
+TCGA-D3-A5GL,"Malignant melanoma, NOS","Colon, NOS",N/A,M1
+TCGA-ER-A19N,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-LH-A9QB,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FS-A1ZR,Not Reported,Not Reported,N/A,M1
+TCGA-EE-A185,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FR-A8YE,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-DA-A3F2,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-WE-A8K1,Superficial spreading melanoma,"Skin, NOS",N/A,M1
+TCGA-D9-A4Z6,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-3N-A9WD,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A2GJ,"Malignant melanoma, NOS",Intrathoracic lymph nodes,N/A,N/A
+TCGA-IH-A3EA,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A29L,"Basal cell carcinoma, NOS",Skin of other and unspecified parts of face,N/A,M0
+TCGA-EB-A3XB,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2A1,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-ER-A196,"Acral lentiginous melanoma, malignant","Skin, NOS",N/A,M0
+TCGA-EE-A3AA,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GN-A4U9,"Malignant melanoma, NOS","Lung, NOS",N/A,M1
+TCGA-EE-A3JE,"Malignant melanoma, NOS",Not Reported,N/A,M0
+TCGA-WE-AAA0,"Malignant melanoma, NOS","Brain, NOS",N/A,M1
+TCGA-GF-A769,Nodular melanoma,"Skin, NOS",N/A,M0
+TCGA-D9-A6EC,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A5GN,"Malignant melanoma, NOS",Liver,N/A,M1
+TCGA-D3-A2J8,"Malignant melanoma, NOS",Specified parts of peritoneum,N/A,N/A
+TCGA-FS-A1ZC,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-XV-AAZY,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A3J3,Amelanotic melanoma,Not Reported,N/A,M0
+TCGA-EE-A2GI,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-BF-A5ER,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A3HV,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FS-A4FC,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-ER-A19T,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A1Q3,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GN-A9SD,"Malignant melanoma, NOS","Lung, NOS",N/A,M1
+TCGA-D3-A3ML,"Malignant melanoma, NOS",Not Reported,N/A,M1
+TCGA-FS-A1ZW,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GN-A267,"Malignant melanoma, NOS","Brain, NOS",N/A,N/A
+TCGA-FS-A1ZZ,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FR-A3YO,"Intraductal carcinoma, noninfiltrating, NOS","Breast, NOS",N/A,M0
+TCGA-FS-A1ZF,Not Reported,Unknown,N/A,N/A
+TCGA-D3-A3C8,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-ER-A2NC,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-ER-A2ND,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-ER-A2NG,"Malignant melanoma, NOS","Thorax, NOS",N/A,M1
+TCGA-ER-A3ES,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A4F0,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A19B,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A3MU,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2MR,"Basal cell carcinoma, NOS","Thorax, NOS",N/A,M0
+TCGA-ER-A2NB,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-ER-A2NH,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GN-A262,"Malignant melanoma, NOS",Not Reported,N/A,M0
+TCGA-FS-A1ZS,"Malignant melanoma, NOS",Liver,N/A,M1
+TCGA-HR-A2OH,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FS-A1ZY,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A3EV,"Malignant melanoma, NOS",Liver,N/A,M0
+TCGA-FR-A44A,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A180,"Malignant melanoma, NOS","Mediastinum, NOS",N/A,M0
+TCGA-D3-A2JF,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2GO,Amelanotic melanoma,"Skin, NOS",N/A,N/A
+TCGA-FS-A1ZT,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2M5,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A184,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FW-A3R5,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A2JG,"Malignant melanoma, NOS","Pelvis, NOS",N/A,M1
+TCGA-EB-A5VU,"Malignant melanoma, NOS",Not Reported,N/A,M0
+TCGA-EE-A3JD,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FS-A1ZQ,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A2NE,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-ER-A198,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A2MH,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A5VV,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A8GI,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-GN-A263,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A3C6,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A4F4,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FS-A1ZD,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A42K,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A3BZ,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GN-A4U4,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A5GT,"Malignant melanoma, NOS",Not Reported,N/A,N/A
+TCGA-EE-A3AC,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EB-A24C,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A550,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D9-A6EG,"Malignant melanoma, NOS","Bone, NOS",N/A,N/A
+TCGA-D3-A51T,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-RP-A690,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-XV-AB01,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A44Q,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A19O,"Malignant melanoma, NOS",Liver,N/A,M1
+TCGA-EE-A20I,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-FR-A69P,"Malignant melanoma, NOS",Not Reported,N/A,N/A
+TCGA-ER-A19J,"Malignant melanoma, NOS","Bone, NOS",N/A,M1
+TCGA-GN-A4U8,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-BF-AAP8,Epithelioid cell melanoma,"Skin, NOS",N/A,N/A
+TCGA-EB-A3Y7,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FS-A1ZH,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A5SH,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EB-A430,Nodular melanoma,"Skin, NOS",N/A,M0
+TCGA-D3-A1Q8,"Malignant melanoma, NOS",Liver,N/A,M1
+TCGA-GN-A268,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A2MD,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A2ML,"Malignant melanoma, NOS","Peritoneum, NOS",N/A,M1
+TCGA-EB-A5UN,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A3J5,"Malignant melanoma, NOS",Not Reported,N/A,N/A
+TCGA-EE-A2MN,"Malignant melanoma, NOS","Thorax, NOS",N/A,N/A
+TCGA-QB-A6FS,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A5GO,"Squamous cell carcinoma, NOS",Other ill-defined sites,N/A,N/A
+TCGA-FR-A8YC,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-BF-A3DN,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A24D,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A2JE,"Malignant melanoma, NOS","Connective, subcutaneous and other soft tissues, NOS",N/A,M1
+TCGA-DA-A1I8,"Malignant melanoma, NOS","Brain, NOS",N/A,M1
+TCGA-D3-A8GE,"Spindle cell melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A29M,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EB-A4P0,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-ER-A19L,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-DA-A1I7,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-BF-AAOU,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-GN-A8LK,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-ER-A199,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-DA-A1I5,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A8GJ,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D3-A51K,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D3-A3MV,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A20H,"Malignant melanoma, NOS","Thorax, NOS",N/A,M1
+TCGA-D3-A1Q4,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-WE-A8K4,Nodular melanoma,"Skin, NOS",N/A,N/A
+TCGA-D3-A2JP,"Malignant melanoma, NOS",Liver,N/A,N/A
+TCGA-D3-A2J9,"Malignant melanoma, NOS","Peritoneum, NOS",N/A,M1
+TCGA-BF-AAP0,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-FR-A728,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-ER-A19C,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-W3-A824,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-BF-AAP6,Epithelioid cell melanoma,"Skin, NOS",N/A,M0
+TCGA-FR-A7U9,"Malignant melanoma, NOS",Not Reported,N/A,M1
+TCGA-EB-A5FP,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-BF-A5ES,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-GF-A6C8,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A42Y,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-EE-A2A6,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-BF-A1PV,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-W3-AA1O,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-D9-A1X3,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-Z2-AA3S,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-ER-A19E,"Malignant melanoma, NOS","Lymph nodes of head, face and neck",N/A,M0
+TCGA-WE-A8K6,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A19S,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EB-A6R0,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FR-A729,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-EE-A29T,"Malignant melanoma, NOS",Not Reported,N/A,M0
+TCGA-EE-A20B,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-D9-A6E9,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-GF-A3OT,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GN-A269,Superficial spreading melanoma,"Skin, NOS",N/A,N/A
+TCGA-D3-A5GR,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-GN-A26C,"Spindle cell melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-BF-A5EQ,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-D3-A3C3,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-QB-AA9O,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-ER-A3ET,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A
+TCGA-EE-A29P,"Malignant melanoma, NOS","Lung, NOS",N/A,M0
+TCGA-EB-A5SE,"Malignant melanoma, NOS","Skin, NOS",N/A,M0
+TCGA-FS-A1ZK,"Malignant melanoma, NOS","Skin, NOS",N/A,M1
+TCGA-ER-A19P,"Malignant melanoma, NOS","Skin, NOS",N/A,N/A

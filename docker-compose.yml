@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  histohelper-api:
+    build: .
+    container_name: histohelper-backend
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
+    volumes:
+      # This maps your local folder to the container. 
+      # If you train a new model and save a new .pth file natively, 
+      # the Docker container sees it instantly without needing a rebuild!
+      - .:/app
